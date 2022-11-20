@@ -1,2 +1,2 @@
-# Irrigar Automático
+# Irrigação Automático
 Projeto de Irrigação Automatizada para Plantas 
